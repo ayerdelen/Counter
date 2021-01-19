@@ -1,6 +1,6 @@
 # Number Should be 12
 
-[Click to see](https://ayerdelen.github.io/Counter/)
+[Click to see](https://ayerdelen.github.io/Number-Shouldbe-12/)
 
 - This is a tutorial of [Free Code Camp](https://www.youtube.com/watch?v=3PHXvlpOkf4&list=WL&index=21&t=21s)
 
